@@ -1,0 +1,9 @@
+C:\Users\shangaro\OneDrive - University of Waterloo\backup\NetCoreProjects\Asp.Net-Core-Trip-Advisor\TheWorld\bin\Debug\netcoreapp1.0\TheWorld.deps.json
+C:\Users\shangaro\OneDrive - University of Waterloo\backup\NetCoreProjects\Asp.Net-Core-Trip-Advisor\TheWorld\bin\Debug\netcoreapp1.0\TheWorld.runtimeconfig.json
+C:\Users\shangaro\OneDrive - University of Waterloo\backup\NetCoreProjects\Asp.Net-Core-Trip-Advisor\TheWorld\bin\Debug\netcoreapp1.0\TheWorld.runtimeconfig.dev.json
+C:\Users\shangaro\OneDrive - University of Waterloo\backup\NetCoreProjects\Asp.Net-Core-Trip-Advisor\TheWorld\bin\Debug\netcoreapp1.0\TheWorld.dll
+C:\Users\shangaro\OneDrive - University of Waterloo\backup\NetCoreProjects\Asp.Net-Core-Trip-Advisor\TheWorld\bin\Debug\netcoreapp1.0\TheWorld.pdb
+C:\Users\shangaro\OneDrive - University of Waterloo\backup\NetCoreProjects\Asp.Net-Core-Trip-Advisor\TheWorld\obj\Debug\netcoreapp1.0\TheWorld.csprojResolveAssemblyReference.cache
+C:\Users\shangaro\OneDrive - University of Waterloo\backup\NetCoreProjects\Asp.Net-Core-Trip-Advisor\TheWorld\obj\Debug\netcoreapp1.0\TheWorld.AssemblyInfo.cs
+C:\Users\shangaro\OneDrive - University of Waterloo\backup\NetCoreProjects\Asp.Net-Core-Trip-Advisor\TheWorld\obj\Debug\netcoreapp1.0\TheWorld.dll
+C:\Users\shangaro\OneDrive - University of Waterloo\backup\NetCoreProjects\Asp.Net-Core-Trip-Advisor\TheWorld\obj\Debug\netcoreapp1.0\TheWorld.pdb
